@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lakshi1ta
 - 👀 I’m interested in Programming and developement
-- 🌱 I’m currently learning Web Developement
+- 🌱 I’m currently learning Web Developement and python
 - 💞️ I’m looking to collaborate with developers
 
 
