@@ -47,8 +47,8 @@
 ---
 
 ## 🚀 Featured Projects  
-- **SupplySeva** – Vendor-Supplier Marketplace 
 - **AawasKhoj** – Rooms or PG finder  
+- **SupplySeva** – Vendor-Supplier Marketplace 
 - **Portfolio Website** – Responsive Personal Portfolio  
 
 ---
